@@ -1,2 +1,2 @@
-# Score
-Flutter Score
+Flutter Score Widget
+![](Score.gif)
